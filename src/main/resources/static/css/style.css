@@ -5,7 +5,7 @@ html, body {
 
 header {
 	display: block;
-	background: #d7e0e9;
+	background: rgb(146, 239, 239);
 	padding: 10px 0px;
 }
 
@@ -26,5 +26,5 @@ footer {
 	clear: both;
 	background: #d7e0e9;
 	text-align: center;
-	color: black;
+	color: rgb(0, 64, 128);
 }
